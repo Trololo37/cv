@@ -14,4 +14,4 @@ INSTALACION: NA
 HECHO CON: HTML y CSS
 
 ### LINK DE LA TAREA
-* [LINK] [https://aulas3.uach.mx/mod/assign/view.php?id=858969]
+* [LINK](https://aulas3.uach.mx/mod/assign/view.php?id=858969)
