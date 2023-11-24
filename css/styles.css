@@ -1,0 +1,38 @@
+.text{
+    color: #3f2d26;
+}
+
+body{
+    background-color: cyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.section{
+    /*margin: 1%;*/
+    /*border: darkslategray 2px solid;*/
+   /* background: azure;*/
+    /* overflow: hidden; REMOVER ESTA LÍNEA */
+    width: auto;
+    text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    
+}
+
+.subsection{
+    /*display: inline-block;*/
+    margin: 1%;
+   /* border: blueviolet 2px solid;*/
+    margin-top: 0;
+    vertical-align: top;
+    width: 25%;
+    text-align: justify;
+    display: inline-flex;
+    flex-direction: column;
+    /*background-color: #3ec9a7;*/
+    padding-left: 5%;
+    padding-right: 5%;
+}
